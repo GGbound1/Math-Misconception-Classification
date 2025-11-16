@@ -1,0 +1,2 @@
+# Math-Misconception-Classification
+Kaggle比赛解决方案：使用机器学习识别学生数学误解，集成LightGBM、XGBoost和随机森林模型
