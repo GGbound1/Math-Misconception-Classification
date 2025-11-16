@@ -132,8 +132,3 @@ joblib
 
 📧 联系
 有关此项目的问题，请在GitHub上提交issue。
-
-<div align="center">
-如果这个项目对你有帮助，请给个⭐星标支持！
-
-</div> ```
