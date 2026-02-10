@@ -6,12 +6,12 @@
 
 基于机器学习的学生数学误解识别系统。
 
-## 🏆 竞赛
+##  竞赛
 
 - **竞赛名称**: [MAP - Charting Student Math Misunderstandings](https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings)
 - **参与形式**: 个人参赛
 
-## 🚀 快速开始
+##  快速开始
 
 ### 环境安装
 ```bash
@@ -56,7 +56,7 @@ XGBoost (权重: 2) - 在结构化数据上表现强劲
 
 全面的文本预处理和清洗
 
-📁 项目结构
+ 项目结构
 text
 数学-误解-分类/
 ├── src/
@@ -93,10 +93,10 @@ text
 
 基于概率的预测排序
 
-📊 模型性能
+ 模型性能
 模型使用5折分层交叉验证进行评估，在从文本解释预测学生数学误解方面表现出稳健的性能。
 
-💡 应用价值
+ 应用价值
 本解决方案可帮助教育工作者：
 
 自动识别常见的学生误解模式
@@ -124,11 +124,11 @@ joblib
 
 完整版本信息请参见 requirements.txt 文件。
 
-📄 许可证
+ 许可证
 本项目采用 MIT 许可证 - 详见 LICENSE 文件。
 
-🤝 贡献
+ 贡献
 欢迎贡献代码！请随时提交 Pull Request。
 
-📧 联系
+ 联系
 有关此项目的问题，请在GitHub上提交issue。
